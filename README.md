@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/hyhyzxc/leetcode/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## String
 |  |
 | ------- |
@@ -52,4 +54,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hyhyzxc/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
