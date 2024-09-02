@@ -15,7 +15,7 @@ class Solution:
             
             if currTotal > 0:
                 days += 1
-            print(cap, days)
+            #print(cap, days)
             return days
 
         l = max(weights)
