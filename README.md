@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
