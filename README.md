@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/hyhyzxc/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
