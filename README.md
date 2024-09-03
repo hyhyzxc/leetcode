@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/hyhyzxc/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -34,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -48,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
