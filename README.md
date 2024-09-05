@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/hyhyzxc/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
