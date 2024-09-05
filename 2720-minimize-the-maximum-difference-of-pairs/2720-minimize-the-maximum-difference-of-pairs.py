@@ -17,7 +17,7 @@ class Solution:
         if p == 0:
             return 0
         l = 0 
-        r = nums[-1]
+        r = nums[-1] - nums[0]
         res = 10**9
 
         while l <= r:
