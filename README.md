@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hyhyzxc/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hyhyzxc/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hyhyzxc/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hyhyzxc/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hyhyzxc/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hyhyzxc/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hyhyzxc/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hyhyzxc/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
