@@ -16,7 +16,7 @@ class Solution:
         
         numMore = max(count % k, 0)
         numEach = count // k
-        print(numMore, numEach)
+        #print(numMore, numEach)
         i = 0
         while curr:
             #print(groups, i)
