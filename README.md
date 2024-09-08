@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hyhyzxc/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/hyhyzxc/leetcode/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/hyhyzxc/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
