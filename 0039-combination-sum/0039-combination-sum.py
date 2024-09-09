@@ -16,17 +16,17 @@ class Solution:
         def backtrack(arr, i):
             j = sum(arr)
             if j == target:
-                res.append(arr)
+                res.append(arr.copy())
                 return
             elif j > target or i >= len(candidates):
                 return
             else:
                 # case 1: repeat my current index
                 arr.append(candidates[i])
-                backtrack(arr.copy(), i)
+                backtrack(arr, i)
                 # case 2: move on to next index
                 arr.pop()
-                backtrack(arr.copy(), i+1)
+                backtrack(arr, i+1)
         
         backtrack([], 0)
         return res
