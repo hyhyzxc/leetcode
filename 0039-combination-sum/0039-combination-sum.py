@@ -14,10 +14,11 @@ class Solution:
         res = []
 
         def backtrack(arr, i):
-            if sum(arr) == target:
+            j = sum(arr)
+            if j == target:
                 res.append(arr)
                 return
-            elif sum(arr) > target or i >= len(candidates):
+            elif j > target or i >= len(candidates):
                 return
             else:
                 # case 1: repeat my current index
