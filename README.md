@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hyhyzxc/leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/hyhyzxc/leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/hyhyzxc/leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hyhyzxc/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -175,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hyhyzxc/leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/hyhyzxc/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
