@@ -29,7 +29,7 @@ class Solution:
             else:
                 if i > 0:
                     val = xor(prefix[j], prefix[i-1])
-                    print(val)
+                    #print(val)
                     res.append(int(val, 2))
                 else:
                     res.append(int(prefix[j], 2))
