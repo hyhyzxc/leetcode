@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/hyhyzxc/leetcode/tree/master/0130-surrounded-regions) |
+| [0386-lexicographical-numbers](https://github.com/hyhyzxc/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0801-is-graph-bipartite](https://github.com/hyhyzxc/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -207,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/hyhyzxc/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
