@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hyhyzxc/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hyhyzxc/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -212,4 +213,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/hyhyzxc/leetcode/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
