@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
+| [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hyhyzxc/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0753-open-the-lock](https://github.com/hyhyzxc/leetcode/tree/master/0753-open-the-lock) |
+| [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hyhyzxc/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
