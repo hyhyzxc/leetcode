@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3195-separate-black-and-white-balls](https://github.com/hyhyzxc/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hyhyzxc/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3195-separate-black-and-white-balls](https://github.com/hyhyzxc/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/hyhyzxc/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3195-separate-black-and-white-balls](https://github.com/hyhyzxc/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
