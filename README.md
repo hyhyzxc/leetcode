@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/hyhyzxc/leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/hyhyzxc/leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/hyhyzxc/leetcode/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/hyhyzxc/leetcode/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/hyhyzxc/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
