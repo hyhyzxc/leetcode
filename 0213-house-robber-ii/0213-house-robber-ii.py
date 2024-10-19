@@ -14,7 +14,7 @@ class Solution:
             for i in range(start+2, end+1):
                 
                 dp[i-start] = (max(dp[i-start-1], dp[i-start-2] + nums[i]))
-            print(dp)
+            #print(dp)
             return dp[-1]
         if len(nums) == 1:
             return nums[0]
