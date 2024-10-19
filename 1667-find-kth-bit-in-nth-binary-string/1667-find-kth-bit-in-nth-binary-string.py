@@ -4,5 +4,5 @@ class Solution:
         for i in range(2, n+1):
             x = bin(int(dp[i-1], 2) ^ int("1" * len(dp[i-1]), 2))[2:][::-1]
             dp[i] = dp[i-1] + "1" + str(x)
-            print(x)
+            #print(x)
         return dp[n][k-1]
