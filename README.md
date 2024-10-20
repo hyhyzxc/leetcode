@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/hyhyzxc/leetcode/tree/master/0753-open-the-lock) |
+| [1197-parsing-a-boolean-expression](https://github.com/hyhyzxc/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hyhyzxc/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hyhyzxc/leetcode/tree/master/0206-reverse-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/hyhyzxc/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hyhyzxc/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/hyhyzxc/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
