@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/hyhyzxc/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0753-open-the-lock](https://github.com/hyhyzxc/leetcode/tree/master/0753-open-the-lock) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/hyhyzxc/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/hyhyzxc/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0670-maximum-swap](https://github.com/hyhyzxc/leetcode/tree/master/0670-maximum-swap) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/hyhyzxc/leetcode/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
