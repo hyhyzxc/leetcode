@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hyhyzxc/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/hyhyzxc/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hyhyzxc/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hyhyzxc/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Dynamic Programming
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1197-parsing-a-boolean-expression](https://github.com/hyhyzxc/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hyhyzxc/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hyhyzxc/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hyhyzxc/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/hyhyzxc/leetcode/tree/master/0039-combination-sum) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hyhyzxc/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
