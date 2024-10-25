@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/hyhyzxc/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/hyhyzxc/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hyhyzxc/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/hyhyzxc/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/hyhyzxc/leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hyhyzxc/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/hyhyzxc/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hyhyzxc/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/hyhyzxc/leetcode/tree/master/0047-permutations-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hyhyzxc/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
