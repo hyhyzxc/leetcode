@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/hyhyzxc/leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/hyhyzxc/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hyhyzxc/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/hyhyzxc/leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hyhyzxc/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/hyhyzxc/leetcode/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/hyhyzxc/leetcode/tree/master/0670-maximum-swap) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hyhyzxc/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hyhyzxc/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/hyhyzxc/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/hyhyzxc/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/hyhyzxc/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -303,4 +307,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/hyhyzxc/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
