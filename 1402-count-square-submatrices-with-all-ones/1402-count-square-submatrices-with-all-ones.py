@@ -5,7 +5,7 @@ class Solution:
         n = len(matrix[0])
         dp = {}
         
-        dp[1] = matrix.copy()
+        dp[1] = matrix
         res = 0
         for i in range(m):
             for j in range(n):
