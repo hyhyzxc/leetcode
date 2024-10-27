@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hyhyzxc/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/hyhyzxc/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/hyhyzxc/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hyhyzxc/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hyhyzxc/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/hyhyzxc/leetcode/tree/master/0740-delete-and-earn) |
 | [1025-minimum-cost-for-tickets](https://github.com/hyhyzxc/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/hyhyzxc/leetcode/tree/master/0130-surrounded-regions) |
 | [0971-shortest-bridge](https://github.com/hyhyzxc/leetcode/tree/master/0971-shortest-bridge) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/hyhyzxc/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/hyhyzxc/leetcode/tree/master/2411-spiral-matrix-iv) |
