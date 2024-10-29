@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/hyhyzxc/leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/hyhyzxc/leetcode/tree/master/0740-delete-and-earn) |
+| [0806-domino-and-tromino-tiling](https://github.com/hyhyzxc/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/hyhyzxc/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hyhyzxc/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
