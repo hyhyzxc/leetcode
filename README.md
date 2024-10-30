@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/hyhyzxc/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/hyhyzxc/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/hyhyzxc/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/hyhyzxc/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hyhyzxc/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0740-delete-and-earn](https://github.com/hyhyzxc/leetcode/tree/master/0740-delete-and-earn) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/hyhyzxc/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/hyhyzxc/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/hyhyzxc/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/hyhyzxc/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/hyhyzxc/leetcode/tree/master/0740-delete-and-earn) |
 | [0806-domino-and-tromino-tiling](https://github.com/hyhyzxc/leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hyhyzxc/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/hyhyzxc/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/hyhyzxc/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/hyhyzxc/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hyhyzxc/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/hyhyzxc/leetcode/tree/master/0907-koko-eating-bananas) |
