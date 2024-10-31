@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/hyhyzxc/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hyhyzxc/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hyhyzxc/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/hyhyzxc/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hyhyzxc/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hyhyzxc/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
