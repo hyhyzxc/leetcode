@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hyhyzxc/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2580-circular-sentence](https://github.com/hyhyzxc/leetcode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/hyhyzxc/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
