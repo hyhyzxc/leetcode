@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/hyhyzxc/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hyhyzxc/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hyhyzxc/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1748-best-team-with-no-conflicts](https://github.com/hyhyzxc/leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hyhyzxc/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-domino-and-tromino-tiling](https://github.com/hyhyzxc/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/hyhyzxc/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hyhyzxc/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1748-best-team-with-no-conflicts](https://github.com/hyhyzxc/leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/hyhyzxc/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hyhyzxc/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/hyhyzxc/leetcode/tree/master/0056-merge-intervals) |
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
+| [1748-best-team-with-no-conflicts](https://github.com/hyhyzxc/leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
