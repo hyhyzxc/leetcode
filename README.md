@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/hyhyzxc/leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/hyhyzxc/leetcode/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/hyhyzxc/leetcode/tree/master/0753-open-the-lock) |
+| [0812-rotate-string](https://github.com/hyhyzxc/leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/hyhyzxc/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hyhyzxc/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/hyhyzxc/leetcode/tree/master/1304-longest-happy-string) |
@@ -338,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hyhyzxc/leetcode/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/hyhyzxc/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
