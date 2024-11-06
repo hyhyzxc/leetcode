@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hyhyzxc/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hyhyzxc/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/hyhyzxc/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hyhyzxc/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hyhyzxc/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hyhyzxc/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
