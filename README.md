@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hyhyzxc/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hyhyzxc/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/hyhyzxc/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/hyhyzxc/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hyhyzxc/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hyhyzxc/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hyhyzxc/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/hyhyzxc/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
 |  |
@@ -315,11 +317,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hyhyzxc/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hyhyzxc/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hyhyzxc/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hyhyzxc/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hyhyzxc/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Trie
 |  |
 | ------- |
