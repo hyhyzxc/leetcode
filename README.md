@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hyhyzxc/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hyhyzxc/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hyhyzxc/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/hyhyzxc/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/hyhyzxc/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/hyhyzxc/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/hyhyzxc/leetcode/tree/master/0876-hand-of-straights) |
 | [1748-best-team-with-no-conflicts](https://github.com/hyhyzxc/leetcode/tree/master/1748-best-team-with-no-conflicts) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/hyhyzxc/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2554-minimum-total-distance-traveled](https://github.com/hyhyzxc/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hyhyzxc/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hyhyzxc/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hyhyzxc/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/hyhyzxc/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/hyhyzxc/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hyhyzxc/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hyhyzxc/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Simulation
