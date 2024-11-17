@@ -1,19 +1,17 @@
-import heapq
+from collections import deque
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
-        heap = [] #store (prefix, end_index)
-        r = 0
-        the_sum = 0
+        q = deque([])
         res = float("inf")
-        while r < len(nums):
-            the_sum += nums[r]
-            if the_sum >= k:
+        curr_sum = 0
+        for r in range(len(nums)):
+            curr_sum += nums[r]
+            if curr_sum >= k:
                 res = min(res, r+1)
-            while heap and the_sum - heap[0][0] >= k:
-                prefix, end_index = heapq.heappop(heap)
+            while q and curr_sum - q[0][0] >= k:
+                prefix, end_index = q.popleft()
                 res = min(res, r - end_index)
-            
-            heapq.heappush(heap, (the_sum, r))
-            r += 1
-
+            while q and curr_sum <= q[-1][0]:
+                q.pop()
+            q.append((curr_sum, r))
         return res if res != float("inf") else -1
